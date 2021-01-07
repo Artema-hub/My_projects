@@ -1,9 +1,9 @@
 # 07_Online_store
 ________________________________________
 
-Есть данные с июня 2017 по конец мая 2018 года: лог сервера с данными о посещениях сайта компании, выгрузка всех заказов за этот период, статистика рекламных расходов. Необходимо оптимизировать маркетинговые затраты.
+The project is devoted to optimization of marketing costs based on the server log with data on company's website visits, all orders, statistics of advertising expenses.
 
->#### Библиотеки
+>#### Libraries
 >* pandas
 >* matplotlib
 >* numpy
