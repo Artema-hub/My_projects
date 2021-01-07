@@ -1,7 +1,7 @@
 ## 11_Tableau
 ___________________
-Посредством соединения с базой, выгружаем данные и создаем по ним дашборд в Tableau.
+Creation of interactive dashboard in Tableau based on external database.
 
->#### Библиотеки
+>#### Libraries
 >* pandas
 >* sqlalchemy
