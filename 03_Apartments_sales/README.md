@@ -1,9 +1,9 @@
 # 03_Apartments_sales
 _____________________________________
 
-Для проекта получены данные сервиса недвижимость — архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктах за несколько лет. Нужно научиться определять рыночную стоимость объектов недвижимости. Задача — установить параметры.
+The research shows the parameters which can be used for evaluation of the market value for real estate objects. The base for the analysis was an archive of ads for the sale of apartments in St. Petersburg and neighboring areas for several years.м
 
->#### Библиотеки
+>#### Libraries
 >* pandas
 >* numpy
 >* matplotlib
