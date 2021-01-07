@@ -1,9 +1,9 @@
 # 10_Online_food_shop
 ______________________________________
 
-Продажа продуктов питания. Нужно разобраться, как ведут себя пользователи мобильного приложения. Изучить воронку продаж, узнайть, как пользователи доходят до покупки. Сколько пользователей доходит до покупки, а сколько — «застревает» на предыдущих шагах и на каких именно? Кроме этого дизайнеры захотели поменять шрифты во всём приложении, а менеджеры испугались, что пользователям будет непривычно. Договорились принять решение по результатам A/A/B-теста. Пользователей разбили на 3 группы: 2 контрольные со старыми шрифтами и одну экспериментальную — с новыми. Необходимо выяснить, какой шрифт лучше.
+Thorough analysis of the usage of mobile application for online food store. The research included sales funnel, customer behavior, weak points of application. Additionally, the influence of new fonts usage on profitability was examined by conduction of A/A/B testing. Users were divided into 3 groups: 2 control groups with the old fonts and one experimental group with the new ones.
 
->#### Библиотеки
+>#### Libraries
 >* pandas
 >* matplotlib
 >* seaborn
