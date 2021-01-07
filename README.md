@@ -1,50 +1,50 @@
 # My_projects
 ______________________
 
-В этом репозитории собраны проекты, которые я выполнил в ходе обучения по специальности Data Analyst в 2020 году.
+This repository contains some of the projects which I performed during the studies in Practicum by Yandex in 2020.
 
 
 >## [02_Bank_debtor_reliability](https://github.com/Artema-hub/My_projects/tree/main/02_Bank_debtor_reliability)
->В проекте входными данными от банка была статистика о платёжеспособности клиентов. Необходимо было разобраться влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок.
->#### Библиотеки
+>The analysis describes whether the marital status and number of children of the customer affect the ability of credit repayment on time. It was conducted based on statistical data of customer’s solvency.
+>#### Libraries
 >* pandas
 >* pymystem3
 
 >## [03_Apartments_sales](https://github.com/Artema-hub/My_projects/tree/main/03_Apartments_sales)
->Для проекта получены данные сервиса недвижимость — архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктах за несколько лет. Нужно научиться определять рыночную стоимость объектов недвижимости. Задача — установить параметры.
->#### Библиотеки
+>The research shows the parameters which can be used for evaluation of the market value for real estate objects. The base for the analysis was an archive of ads for the sale of apartments in St. Petersburg and neighboring areas for several years.
+>#### Libraries
 >* pandas
 >* numpy
 >* matplotlib
 
 
 >## [04_Phone_tariff](https://github.com/Artema-hub/My_projects/tree/main/04_Phone_tariff)
->Федеральный оператор сотовой связи предлагает клиентам два тарифных плана: «Смарт» и «Ультра». Необходимо сделать предварительный анализ тарифов на небольшой выборке клиентов. Нужно проанализировать поведение клиентов и сделать вывод — какой тариф лучше.
->#### Библиотеки
+>The intention of the analysis is to compare two tariff plans and identify the most profitable one for the mobile operator. The research is based on behavioral analysis of customers.
+>#### Libraries
 >* pandas
 >* numpy
 >* matplotlib
 >* scipy
 
 >## [05_Сomputer_games](https://github.com/Artema-hub/My_projects/tree/main/05_%D0%A1omputer_games)
->Интернет-магазин продаёт по всему миру компьютерные игры. Из открытых источников доступны исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы (например, Xbox или PlayStation). Нужно выявить определяющие успешность игры закономерности. Перед нами данные до 2016 года. Представим, что сейчас декабрь 2016 г., и мы планируем кампанию на 2017-й. Нужно отработать принцип работы с данными.
->#### Библиотеки
+>The project’s intention is to form recommendations for a marketing campaign based on analysis of data on game sales, user’s and expert’s ratings, genres and platforms which are available from open sources. The approach is to identify the patterns that determine the success of the game.
+>#### Libraries
 >* pandas
 >* numpy
 >* matplotlib
 >* scipy
 
 >## [07_Online_store](https://github.com/Artema-hub/My_projects/tree/main/07_Online_store)
->Есть данные с июня 2017 по конец мая 2018 года: лог сервера с данными о посещениях сайта компании, выгрузка всех заказов за этот период, статистика рекламных расходов. Необходимо оптимизировать маркетинговые затраты.
->#### Библиотеки
+>The project is devoted to optimization of marketing costs based on the server log with data on company's website visits, all orders, statistics of advertising expenses.
+>#### Libraries
 >* pandas
 >* matplotlib
 >* numpy
 >* seaborn
 
->## [08_AB_test](https://github.com/Artema-hub/My_projects/tree/main/08_AB_test)
->В проекте необходимо приоритизировать имеющиеся гипотезы, запустить A/B-тест для интернет магазина и проанализировать результаты.
->#### Библиотеки
+>## [08_A/B_test](https://github.com/Artema-hub/My_projects/tree/main/08_AB_test)
+>The project consists of prioritization of existing hypotheses, A/B-test running for an online store and analysis of the results.
+>#### Libraries
 >* pandas
 >* scipy.stats
 >* datetime
@@ -52,15 +52,15 @@ ______________________
 >* matplotlib
 
 >## [09_Moscow_restaurants](https://github.com/Artema-hub/My_projects/tree/main/09_Moscow_restaurants)
->Есть идея открыть небольшое кафе в Москве. Гостей будут обслуживать роботы. Необходимо подготовить исследование рынка общественного питания и презентацию для инвесторов.
->#### Библиотеки
+>Research of the Moscow catering market with the aim of opening a cafe.
+>#### Libraries
 >* pandas
 >* matplotlib
 >* seaborn
 
 >## [10_Online_food_shop](https://github.com/Artema-hub/My_projects/tree/main/10_Online_food_shop)
->Продажа продуктов питания. Нужно разобраться, как ведут себя пользователи мобильного приложения. Изучить воронку продаж, узнайть, как пользователи доходят до покупки. Сколько пользователей доходит до покупки, а сколько — «застревает» на предыдущих шагах и на каких именно? Кроме этого дизайнеры захотели поменять шрифты во всём приложении, а менеджеры испугались, что пользователям будет непривычно. Договорились принять решение по результатам A/A/B-теста. Пользователей разбили на 3 группы: 2 контрольные со старыми шрифтами и одну экспериментальную — с новыми. Необходимо выяснить, какой шрифт лучше.
->#### Библиотеки
+>Thorough analysis of the usage of mobile application for online food store. The research included sales funnel, customer behavior, weak points of application. Additionally, the influence of new fonts usage on profitability was examined by conduction of A/A/B testing. Users were divided into 3 groups: 2 control groups with the old fonts and one experimental group with the new ones.
+>#### Libraries
 >* pandas
 >* matplotlib
 >* seaborn
@@ -69,14 +69,14 @@ ______________________
 >* math
 
 >## [11_Tableau](https://github.com/Artema-hub/My_projects/tree/main/11_Tableau)
->Посредством соединения с базой, выгружаем данные и создаем по ним дашборд в Tableau.
->#### Библиотеки
+>Creation of interactive dashboard in Tableau based on external database.
+>#### Libraries
 >* pandas
 >* sqlalchemy
 
 >## [12_Fitnes_customer_churn_fcst](https://github.com/Artema-hub/My_projects/tree/main/12_Fitnes_customer_churn_fcst)
->Необходимо на основе данных о клиентах сети фитнес-клуба используя ML получить модель прогнозирующую отток клиента. Нужно провести анализ и подготовить план действий по удержанию клиентов.
->#### Библиотеки
+>Using ML, a model for prediction of the clients outflow for fitness clubs network was created. Additionally, a research of client’s behavior and preferences was performed. As a result, recommendations and an action plan for clients’ retention were provided to the customer.
+>#### Libraries
 >* pandas
 >* seaborn
 >* matplotlib
