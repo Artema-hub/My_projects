@@ -1,9 +1,9 @@
 # 09_Moscow_restaurants
 __________________________________________
 
-Есть идея открыть небольшое кафе в Москве. Гостей будут обслуживать роботы. Необходимо подготовить исследование рынка общественного питания и презентацию для инвесторов.
+Research of the Moscow catering market with the aim of opening a cafe.
 
->#### Библиотеки
+>#### Libraries
 >* pandas
 >* matplotlib
 >* seaborn
