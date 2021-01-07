@@ -1,9 +1,9 @@
 # 04_Phone_tariff
 ________________________________________
 
-Федеральный оператор сотовой связи предлагает клиентам два тарифных плана: «Смарт» и «Ультра». Необходимо сделать предварительный анализ тарифов на небольшой выборке клиентов. Нужно проанализировать поведение клиентов и сделать вывод — какой тариф лучше.
+The intention of the analysis is to compare two tariff plans and identify the most profitable one for the mobile operator. The research is based on behavioral analysis of customers.
 
->#### Библиотеки
+>#### Libraries
 >* pandas
 >* numpy
 >* matplotlib
