@@ -1,9 +1,9 @@
 ## 12_Fitnes_customer_churn_fcst
 ________________________________________________
 
-Необходимо на основе данных о клиентах сети фитнес-клуба используя ML получить модель прогнозирующую отток клиента. Нужно провести анализ и подготовить план действий по удержанию клиентов.
+Using ML, a model for prediction of the clients outflow for fitness clubs network was created. Additionally, a research of client’s behavior and preferences was performed. As a result, recommendations and an action plan for clients’ retention were provided to the customer.
 
->#### Библиотеки
+>#### Libraries
 >* pandas
 >* seaborn
 >* matplotlib
