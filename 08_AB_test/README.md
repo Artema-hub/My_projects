@@ -1,9 +1,9 @@
 # 08_AB_test
 _____________________
 
-В проекте необходимо приоритизировать имеющиеся гипотезы, запустить A/B-тест для интернет магазина и проанализировать результаты.
+The project consists of prioritization of existing hypotheses, A/B-test running for an online store and analysis of the results.
 
->#### Библиотеки
+>#### Libraries
 >* pandas
 >* scipy.stats
 >* datetime
