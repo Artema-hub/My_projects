@@ -1,9 +1,9 @@
 # 05_Сomputer_games
 ________________________________________
 
-Интернет-магазин продаёт по всему миру компьютерные игры. Из открытых источников доступны исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы (например, Xbox или PlayStation). Нужно выявить определяющие успешность игры закономерности. Перед нами данные до 2016 года. Представим, что сейчас декабрь 2016 г., и мы планируем кампанию на 2017-й. Нужно отработать принцип работы с данными.
+The project’s intention is to form recommendations for a marketing campaign based on analysis of data on game sales, user’s and expert’s ratings, genres and platforms which are available from open sources. The approach is to identify the patterns that determine the success of the game.
 
->#### Библиотеки
+>#### Libraries
 >* pandas
 >* numpy
 >* matplotlib
