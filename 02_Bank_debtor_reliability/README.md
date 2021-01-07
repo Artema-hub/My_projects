@@ -1,9 +1,9 @@
 # 02_Bank_debtor_reliability
 ________________________________________
 
-В проекте входными данными от банка была статистика о платёжеспособности клиентов. Необходимо было разобраться влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок.
+The analysis describes whether the marital status and number of children of the customer affect the ability of credit repayment on time. It was conducted based on statistical data of customer’s solvency.
 
->#### Библиотеки
+>#### Libraries
 >* pandas
 >* pymystem3
 
